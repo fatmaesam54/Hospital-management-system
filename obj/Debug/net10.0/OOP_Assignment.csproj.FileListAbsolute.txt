@@ -1,0 +1,14 @@
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\bin\Debug\net10.0\OOP_Assignment.exe
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\bin\Debug\net10.0\OOP_Assignment.deps.json
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\bin\Debug\net10.0\OOP_Assignment.runtimeconfig.json
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\bin\Debug\net10.0\OOP_Assignment.dll
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\bin\Debug\net10.0\OOP_Assignment.pdb
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.AssemblyInfoInputs.cache
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.AssemblyInfo.cs
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.csproj.CoreCompileInputs.cache
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.dll
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\refint\OOP_Assignment.dll
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.pdb
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\OOP_Assignment.genruntimeconfig.cache
+D:\DEPI\ROUND 5\Tecnical\C# language\C# Code Sessions\OOP_Assignment\obj\Debug\net10.0\ref\OOP_Assignment.dll
